@@ -1,5 +1,5 @@
 window.QUIZ_CONFIG = {
-  title: "Liverpool Maths Society Challenge Quiz",
+  title: "MEM Masterclass Quiz",
   subtitle: "Enter your name, answer 20 questions, and see how many you get correct.",
   resultsEndpoint: "https://script.google.com/macros/s/AKfycbwNaMYA5V1HAlAktiQFvtYMKvuw6Tjbshjuy9O39APnCIpJdWJWjGl2Auj8dYgTYa35VA/exec",
   leaderboardEndpoint: "https://script.google.com/macros/s/AKfycbwNaMYA5V1HAlAktiQFvtYMKvuw6Tjbshjuy9O39APnCIpJdWJWjGl2Auj8dYgTYa35VA/exec",
