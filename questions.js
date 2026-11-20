@@ -48,7 +48,7 @@ window.QUIZ_QUESTIONS = [
     answer: 8
   },
   {
-    prompt: "How many squares of all sizes are there on a 4 × 4 chessboard?",
+    prompt: "How many squares of all sizes are there on a 4 × 4 chessboard?" (all sizes, not just 1 x 1 squares!),
     answer: 30
   },
   {
@@ -71,12 +71,13 @@ window.QUIZ_QUESTIONS = [
     prompt: "Lamp posts are equally spaced along a straight road. The distance from the 3rd lamp post to the 9th is 90 metres. How many metres is it from the 1st lamp post to the 12th? (Just type the number.)",
     answer: 165
   },
-  {
-    prompt: "How many complete weeks are there in a century?",
-    answer: 5217
-  },
-  {
-    prompt: "How many perfect squares (square numbers) are there greater than one million and less than four million? (Hint: 1 million = 1000 squared.)",
-    answer: 999
+   {
+    prompt: "A book has its pages numbered from 1 onwards. If 252 digits are used to number all its pages, how many pages does the book have?",
+    answer: 120
   }
+  {
+    prompt: "Starting at 1 am, how many times will the hour hand and minute hand of a clock point in exactly the same direction over the next 24 hours??",
+    answer: 22
+  },
+ 
 ];
