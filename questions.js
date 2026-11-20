@@ -48,7 +48,7 @@ window.QUIZ_QUESTIONS = [
     answer: 8
   },
   {
-    prompt: "How many squares of all sizes are there on a 4 × 4 chessboard?" (all sizes, not just 1 x 1 squares!),
+    prompt: "How many squares of all sizes are there on a 4 × 4 chessboard? (all sizes, not just 1 x 1 squares!)",
     answer: 30
   },
   {
