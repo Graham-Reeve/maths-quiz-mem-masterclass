@@ -74,9 +74,9 @@ window.QUIZ_QUESTIONS = [
    {
     prompt: "A book has its pages numbered from 1 onwards. If 252 digits are used to number all its pages, how many pages does the book have?",
     answer: 120
-  }
+  },
   {
-    prompt: "Starting at 1 am, how many times will the hour hand and minute hand of a clock point in exactly the same direction over the next 24 hours??",
+    prompt: "Starting at 1 am, how many times will the hour hand and minute hand of a clock point in exactly the same direction over the next 24 hours?",
     answer: 22
   },
  
